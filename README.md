@@ -22,7 +22,7 @@ This project was developed as part of the DEPI Training Program. It is an intera
 
 - Light Mode and Dark Mode for an optimal viewing experience in different environments.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI for data modeling, interactive visuals, and DAX calculations.
 
